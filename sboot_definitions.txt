@@ -1,0 +1,2 @@
+nps download  Odin紧急固件恢复相关
+rdx                    upload mode相关
